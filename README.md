@@ -11,8 +11,8 @@ Ten projekt to prosta implementacja kasy fiskalnej w języku C++. Program pozwal
 - **Zapis i ładowanie danych**: Dane o stanie kasy są zapisywane w pliku `data.txt`, co pozwala na przywrócenie stanu przy następnym uruchomieniu programu.
 
 ### Używane technologie:
-- Język programowania: C++
-- Biblioteki: `<iostream>`, `<fstream>`
+- **Język programowania**: C++
+- **Biblioteki**: `<iostream>`, `<fstream>`
 
 ### Instalacja i uruchomienie:
 1. Sklonuj repozytorium na swój komputer.
