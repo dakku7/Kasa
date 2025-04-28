@@ -1,0 +1,11 @@
+﻿  zajecie.cpp
+D:\visualcode\zajecie\zajecie\zajecie.cpp(58,12): warning C4566: символ, представленный универсальным именем символа "\u017C", невозможно представить в текущей кодовой странице (1251)
+D:\visualcode\zajecie\zajecie\zajecie.cpp(58,12): warning C4566: символ, представленный универсальным именем символа "\u0107", невозможно представить в текущей кодовой странице (1251)
+D:\visualcode\zajecie\zajecie\zajecie.cpp(58,12): warning C4566: символ, представленный универсальным именем символа "\u015B", невозможно представить в текущей кодовой странице (1251)
+D:\visualcode\zajecie\zajecie\zajecie.cpp(73,11): warning C4129: "K": нераспознанная escape-последовательность символов
+D:\visualcode\zajecie\zajecie\zajecie.cpp(83,12): warning C4129: "K": нераспознанная escape-последовательность символов
+D:\visualcode\zajecie\zajecie\zajecie.cpp(89,12): warning C4566: символ, представленный универсальным именем символа "\u017C", невозможно представить в текущей кодовой странице (1251)
+D:\visualcode\zajecie\zajecie\zajecie.cpp(89,12): warning C4566: символ, представленный универсальным именем символа "\u0107", невозможно представить в текущей кодовой странице (1251)
+D:\visualcode\zajecie\zajecie\zajecie.cpp(99,1): warning C4715: kasa::sprwadzenieZamnkiecia: значение возвращается не при всех путях выполнения
+D:\visualcode\zajecie\zajecie\zajecie.cpp(31,1): warning C4715: kasa::sprawdzeniaUspawiedWyjec: значение возвращается не при всех путях выполнения
+  zajecie.vcxproj -> D:\visualcode\zajecie\x64\Debug\zajecie.exe
