@@ -1,4 +1,4 @@
-```markdown
+
 **Kasa fiskalna w C++**
 
 Ten projekt to prosta implementacja kasy fiskalnej w języku C++. Program pozwala użytkownikowi zarządzać gotówką, w tym dodawaniem i wyjmowaniem banknotów oraz monet, a także wyświetlaniem aktualnego stanu kasy.
